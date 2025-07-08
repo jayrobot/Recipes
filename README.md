@@ -2,7 +2,7 @@
 
 ## My recipes collection
 
-- [Jays Chili](/Jays%20Chili%20recipe.md)
+- [Jays Chili](/Recipes/Jays%20Chili%20recipe.md)
 - [Scrambled Eggs on Air Fryer Sweet Potato toast](/Scrambled%20Eggs%20on%20Air%20Fryer%20Sweet%20Potato%20toast.md)
 - [Ramen](/Ramen.md)
 - [Falafel Flatbread](/Falafel%20Flatbread.md)
