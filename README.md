@@ -9,5 +9,6 @@
 - [Chicken Tikka Masala](/Chicken-Tikka-Masala.md)
 - [Grilled Honey Mustard Carrots](/Grilled%20Honey%20Mustard%20Carrots.md)
 - [Grilled Butter Button Mushrooms](/Grilled%20Butter%20Button%20Mushrooms.md)
+- [Caribbean Cole Slaw](/Caribbean%20Cole%20Slaw.md)
 
 ### add hummus, falafel, tahini, and smoothies recipes
