@@ -2,13 +2,14 @@
 
 ## My recipes collection
 
-- [Jays Chili](/Recipes/Jays%20Chili%20recipe.md)
-- [Scrambled Eggs on Air Fryer Sweet Potato toast](/Scrambled%20Eggs%20on%20Air%20Fryer%20Sweet%20Potato%20toast.md)
-- [Ramen](/Ramen.md)
-- [Falafel Flatbread](/Falafel%20Flatbread.md)
-- [Chicken Tikka Masala](/Chicken-Tikka-Masala.md)
-- [Grilled Honey Mustard Carrots](/Grilled%20Honey%20Mustard%20Carrots.md)
-- [Grilled Butter Button Mushrooms](/Grilled%20Butter%20Button%20Mushrooms.md)
-- [Caribbean Cole Slaw](/Caribbean%20Cole%20Slaw.md)
+- [Jays Chili](/Recipes/Jays-Chili-recipe.md)
+- [Scrambled Eggs on Air Fryer Sweet Potato toast](/Recipes/Scrambled-Eggs-on-Air-Fryer-Sweet-Potato-toast.md)
+- [Ramen](/Recipes/Ramen.md)
+- [Falafel Flatbread](/Recipes/Falafel-Flatbread.md)
+- [Chicken Tikka Masala](/Recipes/Chicken-Tikka-Masala.md)
+- [Grilled Honey Mustard Carrots](/Recipes/Grilled-Honey-Mustard-Carrots.md)
+- [Grilled Butter Button Mushrooms](/Recipes/Grilled-Butter-Button-Mushrooms.md)
+- [Caribbean Cole Slaw](/Recipes/Caribbean-Cole-Slaw.md)
+- [Chopped Cheese Sandwich](/Recipes/Chopped-Cheese.md)
 
 ### add breakfast, hummus, falafel, tahini, and smoothies recipes
