@@ -7,14 +7,14 @@
 - 1/2 pound 85% Ground Beef / Hamburger Patties
 - 1/2 of 1 onion
 - 1/2 of 1 green pepper
-- 1/2 of 1 poblano/1 jalapeno/other pepper (optional)
+- 1/2 of 1 poblano, 1 jalapeno, or other pepper (optional)
 - 1 packet Goya Sazon seasoning
 - 1/2 tbsp Goya Adobo seasoning
 - 1/2 tbsp Goya Sazonador seasoning
 - 1 cup cheese (American, Cheddar, Mexican, etc., though Habanero cheddar makes it spicy)
-- Handful of baby spinach
+- Handful of baby spinach, arugula, or (romaine) lettuce
 - 1 tomato
-- Kaiser/Hard/Sub Rolls or Texas Toast
+- Kaiser, Hard, or Sub Rolls or Texas Toast
 
 ## Instructions
 
