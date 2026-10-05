@@ -12,5 +12,15 @@
 - 1/2 tbsp Goya Adobo seasoning
 - 1/2 tbsp Goya Sazonador seasoning
 - 1 cup cheese (American, Cheddar, Mexican, etc., though Habanero cheddar makes it spicy)
+- Handful of baby spinach
+- 1 tomato
+- Kaiser/Hard/Sub Rolls or Texas Toast
 
 ## Instructions
+
+- Heat medium skillet and add beef/burgers to the pan.
+- Once beef is cooked, add veggies and spices.
+- Chop the mixture up until it is fine.
+- Add cheese and chop some more.
+- Prepare the rolls/bread by adding baby spinach and sliced tomatoes.
+- Put half of the mixture on each sandwich and serve.
